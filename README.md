@@ -3,7 +3,6 @@
 🌱 I’m currently learning web development (HTML, CSS, Sass, JavaScript, etc.)
 💼 I’m passionate about designing and building web applications.
 💞️ I’m looking to collaborate on open-source projects and interesting web development challenges.
-📫 How to reach me: trackozor@example.com
 🔧 Technologies & Tools
 Languages: HTML, CSS, Sass, JavaScript, Python
 Frameworks: React, Vue.js, Django
